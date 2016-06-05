@@ -4,6 +4,8 @@
 
 This is a [BBEdit](http://www.barebones.com/products/bbedit/) package of clippings, a language module, and a text factory for use with the [SubRip](https://en.wikipedia.org/wiki/SubRip) ([`.srt`](https://bitbucket.org/galad87/subler/wiki/Srt%20File%20Format)) static website generator.
 
+If you find this useful and want to make an addition or an improvement, all *pull requests* are gratefully received.
+
 ## Text factory
 
 ### process raw `.srt` file
